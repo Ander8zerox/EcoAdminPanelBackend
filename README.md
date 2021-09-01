@@ -23,4 +23,4 @@ $ cd
 $ git checkout  develop 
 $ crear rama a partir de develop  e iniciar el desarrollo
 ```
-> *crear rama a partir de develop  e iniciar el desarrollo*
+> *Tener en cuenta que se debe montar la base de datos para el correcto funcionamiento del backend*
