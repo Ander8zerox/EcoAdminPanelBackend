@@ -22,3 +22,4 @@ $ git clone https://github.com/Ander8zerox/EcoAdminPanelBackend.git
 $ cd 
 $ git checkout  develop 
 $ crear rama a partir de develop  e iniciar el desarrollo
+>Tener en cuenta que se debe montar la base de datos para la correcta ejecución del backend.
