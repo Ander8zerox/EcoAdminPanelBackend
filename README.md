@@ -1,6 +1,6 @@
 # EcoAdminPanelBackend
 ## Contenido
-1. [General Info](#general-info)
+1. [Información General](#Información-General)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 
