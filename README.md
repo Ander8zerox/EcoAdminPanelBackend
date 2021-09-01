@@ -1,8 +1,8 @@
 # EcoAdminPanelBackend
 ## Contenido
 1. [Información General](#Información-General)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
+2. [Tecnologias](#Tecnologias)
+3. [Instalación](#Instalación)
 
 ### Información General
 Proyecto que contiene el backend que expone los servicios para el panel de administracion ECO
