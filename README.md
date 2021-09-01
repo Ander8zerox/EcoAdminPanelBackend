@@ -19,5 +19,6 @@ seguridad en el consumo de los recursos a traves de *Spring* Security.
 Se recomienda utilizar el IDE Eclipse y configurar en entorno local el proyecto front del panel de administración. 
 ```
 $ git clone https://github.com/Ander8zerox/EcoAdminPanelBackend.git
-$ cd develop
+$ cd 
+$ git checkout  develop 
 $ crear rama a partir de develop  e iniciar el desarrollo
