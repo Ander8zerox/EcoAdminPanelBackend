@@ -10,5 +10,8 @@ su principal función es acceder a base de datos y proveer información relevant
 seguridad en el consumo de los recursos a traves de *Spring* Security.
 
 ### Technologies
+* [Spring Framework](https://spring.io/): Version 2.5.4
+* [Java 8](https://www.java.com/es/): Version 1.8
+* [Maven]
 
 ### Instalation
