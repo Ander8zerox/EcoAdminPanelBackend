@@ -14,16 +14,6 @@ seguridad en el consumo de los recursos a traves de *Spring* Security.
 * [Java 8](https://www.java.com/es/): Version 1.8
 * [Maven](https://maven.apache.org/)
 
-## Installation
-***
-A little intro about the installation. 
-```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
-```
-
 ### Instalación
 ***
 Se recomienda utilizar el IDE Eclipse y configurar en entorno local el proyecto front del panel de administración. 
@@ -33,3 +23,4 @@ $ cd
 $ git checkout  develop 
 $ crear rama a partir de develop  e iniciar el desarrollo
 ```
+> crear rama a partir de develop  e iniciar el desarrollo
