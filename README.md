@@ -15,3 +15,10 @@ seguridad en el consumo de los recursos a traves de *Spring* Security.
 * [Maven](https://maven.apache.org/)
 
 ### Instalación
+***
+Se recomienda utilizar el IDE Eclipse y configurar en entorno local el proyecto front del panel de administración. 
+```
+$ git clone https://example.com
+$ cd ../path/to/the/file
+$ npm install
+$ np
